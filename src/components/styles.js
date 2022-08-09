@@ -26,10 +26,5 @@ import { StyleSheet } from 'react-native'
     input: {
         backgroundColor: 'white',
         marginBottom: 10
-    },
-
-    button: {
-        backgroundColor: 'pink'
-
     }
 });
