@@ -33,7 +33,7 @@ export const ContadorRegressivo = () => {
             <Text style={styles.titulo}>Contagem Regressiva</Text>
             <Text style={styles.contador}>{contador}</Text>
             <View style={{marginBottom: 15}}>
-                <Button 
+                <Button
                     title="Contagem Regressiva" 
                     onPress={handleClick} 
                     disabled={disabled}
